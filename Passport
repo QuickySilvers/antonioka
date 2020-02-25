@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Passport Application Form</title>
+    <style >
+      body{
+        background: url(https://mail.google.com/mail/u/0?ui=2&ik=3ed8f622e0&attid=0.1&permmsgid=msg-a:r7882382465002714467&th=1707756719bd670b&view=att&disp=safe&realattid=f_k70hh5nd0); background-size:cover; background-attachment:fixed;
+      }
+    </style>
+  </head>
+  <body >
+
+    <p align = "right" style = "margin-right:180px"><small>Form No.1 - English</small> </p>
+    <p align = "right" style = "margin-right:180px">NEW REGULAR PASSPORT APPLICATION (Adult)</p>
+    <p style = "margin-left:180px"><b>DEPARTMENT OF FOREIGN AFFAIRS</b>  &nbsp  &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp  THIS FORM IS NOT FOR SALE</p>
+  <p style = "margin-left:180px"><b>Office of Consular Affairs Last Revision:</b> 07 October 2017</p>
+  <p style = "margin-left:180px"><b>INSTRUCTIONS:</b> Please PRINT entries legibly using black or blue</p>
+
+  <p style = "margin-left:180px">ink only. Supply the necessary information and indicate <b>“N/A”</b> for</p>
+  <p style = "margin-left:180px">entries with no answers. Tick (√) boxes as appropriate.</p>
+<table border="5px",style ="width 100%" align = "center"  style=" border-radius: 5px;">
+  <tr>
+    <th colspan="10", align = "center">CAPTURE SITE PRE-PROCESSING  &nbsp  (Do not write on this part)</th>
+  </tr>
+  <tr>
+    <th colspan="2">
+      <fieldset align = "left">
+        <legend >APPOINTMENT VERIFICATION:</legend>
+        <input type="text" name="" value="" size="60" >
+      </fieldset>
+    </<th>
+      <th colspan="2">
+        <fieldset align = "left">
+          <legend>  REMARKS:</legend>
+          <input type="text" name="" value="" size="60" >
+        </fieldset>
+      </th>
+  </tr>
+  </table>
+  <br>
+  <table border="5px", width = 75%, align = "center"  style=" border-radius: 5px;">
+  <tr>
+      <th colspan="10">PASSPORT APPLICANT’S INFORMATION</th>
+  </tr>
+<tr>
+<th colspan="2">
+  <fieldset align = "left">
+    <legend>  1.LAST NAME</legend>
+    <input type="text" name="" value="" size="40" >
+  </fieldset>
+</th>
+<th colspan="3">
+  <fieldset align = "left">
+    <legend>2.FIRST NAME</legend>
+    <input type="text" name="" value="" size="40" >
+  </fieldset>
+</th>
+<th colspan="3">
+  <fieldset align = "left">
+    <legend>3. MIDDLE NAME</legend>
+    <input type="text" name="" value="" size="30" >
+  </fieldset>
+</th>
+</tr>
+<tr>
+  <th colspan="2">
+    <fieldset align = "left">
+      <legend>4.SEX</legend>
+      &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+      <label>Male</label>
+      <input type="radio" name="Gender" value="Male"> &nbsp &nbsp &nbsp &nbsp &nbsp
+      <label>Female</label>
+      <input type="radio" name="Gender" value="Female">
+    </fieldset>
+  </th>
+  <th colspan="3">
+    <fieldset align = "left">
+      <legend>5. DATE OF BIRTH <small><small>(ex. 01 Jan 2017)</small></small></legend>
+      &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <input align type="date" name="" value="" size="20" >
+    </fieldset>
+    <th colspan="3">
+      <fieldset align = "left">
+        <legend>6. PLACE OF BIRTH <small><small><small><small>(ex. Manila,Philippines)</small></small></small></small></legend>
+        <input type="text" name="" value="" size="30" >
+      </fieldset>
+    </th>
+</tr>
+<tr>
+  <th colspan="2">
+    <fieldset align = "left">
+      <legend>7. CIVIL STATUS</legend> <br>
+      <input type="radio" name="SINGLE" value=" SINGLE">
+       <label> SINGLE</label>   <br><br><br>
+       <input type="radio" name="SINGLE" value="MARRIED">
+       <label>MARRIED </label><br><br><br>
+       <input type="radio" name="SINGLE" value="WIDOW/ER">
+       <label>WIDOW/ER</label> <br><br><br>
+       <input type="radio" name="SINGLE" value="ANNULLED">
+       <label>ANNULLED</label><br><br><br>
+    <input type="radio" name="SINGLE" value="DIVORCED">
+    <label>DIVORCED</label> <br> <br><br><br>
+    </fieldset>
+  </th>
+  <th colspan="3">
+    <fieldset align = "left">
+      <legend>8a.HOW DID YOU ACQUIRE PHL CITIZENSHIP?</legend> <br>
+      <input type="radio" name="qwert" value=" BY BIRTH">
+       <label> BY BIRTH</label>   <br><br><br>
+       <input type="radio" name="qwert" value="BY NATURALIZATION ">
+       <label>BY NATURALIZATION </label><br><br><br>
+       <input type="radio" name="qwert" value="BY RE-ACQUISITION (RA 9225)">
+       <label>BY RE-ACQUISITION (RA 9225)</label> <br><br><br>
+       <input type="radio" name="qwert" value="BY ELECTION">
+       <label>BY ELECTION</label><br><br><br>
+    <input type="radio" name="qwert" value="BY LEGISLATION">
+    <label>BY LEGISLATION</label> <br> <br><br>
+    </fieldset>
+  </th>
+  <th colspan="2">
+    <fieldset align = "left">
+      <legend>8b. DID YOU EVER LOSE YOUR PH
+CITIZENSHIP? </legend>
+      &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+      <label>Yes</label>
+      <input type="radio" name="nbsp" value="Yes"> &nbsp &nbsp &nbsp &nbsp &nbsp
+      <label>No</label>
+      <input type="radio" name="nbsp" value="No">
+    </fieldset>
+    <fieldset align = "left">
+      <legend>8c.ARE YOU CURRENTLY A CITIZEN OF
+ANOTHER COUNTRY? </legend>
+      &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+      <label>Yes</label>
+      <input type="radio" name="name" value="Yes"> &nbsp &nbsp &nbsp &nbsp &nbsp
+      <label>No</label>
+      <input type="radio" name="name" value="No">
+    </fieldset>
+    <fieldset align = "left">
+      <legend>8d.IF YES, FROM WHAT COUNTRY?</legend>
+      <input type="text" name="" value="" size="30" >
+    </fieldset>
+
+    <fieldset align = "left">
+      <legend>8e. HAVE YOU SERVED IN ANY FOREIGN
+MILITARY? </legend>
+      &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+      <label>Yes</label>
+      <input type="radio" name="label" value="Yes"> &nbsp &nbsp &nbsp &nbsp &nbsp
+      <label>No</label>
+      <input type="radio" name="label" value="No"> <br>
+      <label>IF Yes, what country?</label>
+            <input type="text" name="" value="" size="30" >
+    </fieldset>
+  </th>
+</tr>
+</table> <br>
+  <table border="5px", width = 75%, align = "center"  style=" border-radius: 5px;">
+    <tr>
+        <th colspan="10">APPLICANT’S CONTACT INFORMATION</th>
+    </tr>
+<tr>
+  <th colspan="2">
+    <fieldset align = "left">
+      <legend>9a. HOME ADDRESS: </legend>
+      <input type="text" name="" value="" size="60" >
+    </fieldset>
+  </th>
+  <th colspan="3">
+    <fieldset align = "left">
+      <legend>9b. PRESENT ADDRESS:</legend>
+      <input type="text" name="" value="" size="60" >
+    </fieldset>
+  </th>
+</tr>
+<tr>
+  <th colspan="2">
+    <fieldset align = "left">
+      <legend>10. WHERE DO YOU WISH YOUR PASSPORT TO BE DELIVERED?</legend>
+      &nbsp &nbsp &nbsp &nbsp
+      <label>HOME ADDRESS </label>
+      <input type="radio" name="ADDRESS" value="HOME ADDRESS "> &nbsp &nbsp &nbsp &nbsp &nbsp
+      <label>PRESENT ADDRESS </label>
+      <input type="radio" name="ADDRESS" value="PRESENT ADDRESS ">
+    </fieldset>
+    </th>
+    <th colspan="2">
+      <fieldset align = "left">
+        <legend>11. TELEPHONE/MOBILE NUMBER:</legend>
+        <input type="text" name="" value="" size="30" >
+      </fieldset>
+  </th>
+  <th colspan="1">
+    <fieldset align = "left">
+      <legend>12. e-MAIL ADDRESS:</legend> <br>
+      <input type="text" name="" value="" size="20" >
+    </fieldset>
+</th>
+</tr>
+<tr>
+  <th colspan="10">
+       <fieldset align = "left">
+        <legend>13. APPLICANT’S SPOUSE’S NAME:</legend>
+        <input type="text" name="" value="" size="130" >
+      </fieldset></th>
+</tr>
+<tr>
+  <th colspan="2">
+    <fieldset align = "left">
+      <legend>14a. PERSON TO CONTACT IN CASE OF EMERGENCY:</legend>
+      <input type="text" name="" value="" size="60" >
+    </fieldset>
+</th>
+<th colspan="3">
+  <fieldset align = "left">
+    <legend>14b. TEL/MOBILE NO.:
+</legend>
+    <input type="text" name="" value="" size="60" >
+  </fieldset>
+</th>
+</tr>
+</table><br>
+    <table border="5px", width = 75%, align = "center"  style=" border-radius: 5px;">
+<tr>
+    <th colspan="10">PARENTAL INFORMATION</th>
+</tr>
+<th colspan="2">
+  <fieldset align = "left">
+    <legend>15. FATHER’S DETAILS</legend>
+    <label>Last Name:</label>
+    <input type="text" name="" value="" size="60" >
+    <label>First Name:</label>
+    <input type="text" name="" value="" size="60" >
+    <label>Middle Name:</label>
+    <input type="text" name="" value="" size="60" >
+    <label>Citizenship (at time of applicant’s birth)</label><br>
+    <input type="text" name="" value="" size="60" >
+  </fieldset>
+  <th colspan="2">
+    <fieldset align = "left">
+      <legend>16. MOTHER'S DETAILS</legend>
+      <label>Last Name:</label>
+      <input type="text" name="" value="" size="60" >
+      <label>First Name:</label>
+      <input type="text" name="" value="" size="60" >
+      <label>Middle Name:</label>
+      <input type="text" name="" value="" size="60" >
+      <label>Citizenship (at time of applicant’s birth)</label><br>
+      <input type="text" name="" value="" size="60" >
+    </fieldset>
+  </table>
+        <table border="5px", width = 75%, align = "center" style=" border-radius: 5px;">
+          <tr>
+              <th colspan="10">DECLARATION OF APPLICANT
+</th>
+</tr>
+<tr>
+<td colspan="10"><b>I HEREBY DECLARE AND AFFIRM </b>that <b>1)</b> I am a Filipino citizen. <b>2)</b> The information provided in this application is true
+  and correct. <b>4)</b> The supporting documents attached are authentic. 4) I consent to the verification by the Philippine
+  Government of the information I provided to establish my personal particulars, and further consent to its use for
+  any lawful purpose. <b>5)</b> I am aware that the information provided in this application will be treated in accordance
+  with relevant privacy regulations. <b>6)</b> I am aware that under the law, I am allowed to hold only one valid regular
+  Philippine passport at a given time. <b>7)</b> I am aware that making false statements in this passport application and
+  furnishing falsified or forged documents are punishable by fine or imprisonment, and grounds for suspension or
+  denial of application. <b>8)</b> I understand and accept that the release of the passport could be subject to delay due to
+  unforeseen events beyond the control of the Department of Foreign Affairs.
+<br>
+<br>
+  <br>
+</td>
+          </tr>
+          <tr>
+            <td>
+              <fieldset>
+                  <legend>17. SIGNATURE OVER PRINTED NAME </legend>
+              <input type="text" name="" value="" size="60" style="height:35px">
+                </fieldset>
+
+                </td>
+                <td>
+                <fieldset>
+                  <legend>18. DATE <small>(ex. 01 Jan 2017)</small> </legend>
+                  <input type="text" name="" value="" size="60" style="height:35px">
+                </fieldset>
+            </td>
+
+
+          </tr>
+<br><br>
+</table> <br>
+          <table border="5px", width = 75%, align = "center" style=" border-radius: 5px;">
+            <tr>
+                <th colspan="10">DO NOT WRITE BELOW THIS LINE. FOR THE DEPARTMENT’S USE ONLY. </th>
+        </tr>
+        <tr>
+          <th colspan="2">
+            <fieldset align = "left">
+              <legend>PROOF OF PHL CITIZENSHIP</legend>
+              <input type="radio" name="SINGLE" value=" SINGLE">
+               <label> BIRTH CERTIFICATE <br> &nbsp &nbsp &nbsp <small>from PHL Statistics Authority</small></label> <br><br>
+               <input type="radio" name="SINGLE" value="MARRIED">
+               <label>CERTIFICATE OF <br>  &nbsp &nbsp  &nbsp NATURALIZATION</label><br><br>
+               <input type="radio" name="SINGLE" value="WIDOW/ER">
+               <label> <small>IDENTIFICATION CERTIFICATE <br> &nbsp &nbsp &nbsp OF CITIZENSHIP</small> </label> <br><br>
+               <input type="radio" name="SINGLE" value="ANNULLED">
+               <label>ELECTION OF PHL <br> &nbsp &nbsp &nbsp CITIZENSHIP</label><br><br>
+            <input type="radio" name="SINGLE" value="DIVORCED">
+            <label>Others:</label><br>
+          &nbsp &nbsp  <input type="text" name="" value="" size="25"><br><br>
+            </fieldset>
+          </th>
+          <th colspan="2">
+            <fieldset align = "left">
+              <legend>IDENTITY DOCUMENT SUBMITTED</legend>
+              <input type="radio" name="MARRIED" value=" SINGLE">
+               <label> COMELEC Voter’s ID</label> <br><br>
+               <input type="radio" name="MARRIED" value="MARRIED">
+               <label>LTO Driver’s License</label><br><br>
+               <input type="radio" name="MARRIED" value="WIDOW/ER">
+               <label> <small>Professional Regulatory<br> &nbsp &nbsp &nbsp &nbsp Commission ID</small> </label> <br>
+               <input type="radio" name="MARRIED" value="ANNULLED">
+               <label>Unified Multipurpose ID <small>(UMID)</small></label><br><br>
+               <input type="radio" name="MARRIED" value="PWD">
+               <label>PWD ID</label><br><br>
+               <input type="radio" name="MARRIED" value="GSIS">
+               <label>GSIS/SSS ID</label><br><br>
+               <input type="radio" name="MARRIED" value="SENIOR">
+               <label>Senior Citizan's ID</label><br>
+            <input type="radio" name="MARRIED" value="DIVORCED">
+            <label>Others:</label><br>
+          &nbsp &nbsp  <input type="text" name="" value="" size="25"><br>
+            </fieldset>
+          </th>
+          <th colspan="2">
+            <fieldset align = "left">
+              <legend>SUPPORTING DOCUMENTS</legend> <br>
+              <input type="radio" name="ANNULLED" value=" SINGLE">
+               <label> Marriage Certificate  <br> &nbsp &nbsp &nbsp <small>from PHL Statistics Authority</small></label><br> <br>
+               <input type="radio" name="ANNULLED" value="MARRIED">
+               <label> Voter’s Registration Record</label><br><br><br>
+               <input type="radio" name="ANNULLED" value="WIDOW/ER">
+               <label>Court Order</label> <br><br><br>
+               <input type="radio" name="ANNULLED" value="ANNULLED">
+               <label> NBI Clearance</label><br><br><br>
+            <input type="radio" name="ANNULLED" value="DIVORCED">
+            <label>Others:</label><br>
+          &nbsp &nbsp  <input type="text" name="" value="" size="25"><br>
+            </fieldset>
+          </th>
+        </tr>
+        <tr>
+          <th colspan="4">
+            <fieldset align = "left">
+              <legend>  REMARKS:</legend>
+              <input type="text" name="" value="" size="85" > <br>
+            </fieldset>
+          </th>
+          <th colspan="2">
+            <fieldset align = "left">
+              <legend>  PASSPORT WATCHLIST VERIFICATION:</legend>
+              <input type="text" name="" value="" size="30" >
+            </fieldset>
+          </th>
+        </tr>
+        <tr>
+          <th colspan="3">
+            <fieldset align = "left">
+              <legend >PROCESSOR’S SIGNATURE:</legend>
+            &nbsp &nbsp &nbsp  <input type="text" name="" value="" size="50" >
+            </fieldset>
+          </<th>
+            <th colspan="3">
+              <fieldset align = "left">
+                <legend>ENCODER’S SIGNATURE:</legend>
+              &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp  <input type="text" name="" value="" size="50" >
+              </fieldset>
+            </th>
+        </tr>
+        <tr>
+          <th colspan="3">
+            <fieldset align = "left">
+              <legend >OFFICIAL RECEIPT/PAYMENT SLIP NO.:</legend>
+            &nbsp &nbsp &nbsp  <input type="text" name="" value="" size="50" >
+            </fieldset>
+          </<th>
+            <th colspan="3">
+              <fieldset align = "left">
+                <legend>DATE OF TRANSACTION:</legend>
+                &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp<input type="text" name="" value="" size="50" >
+              </fieldset>
+            </th>
+        </tr>
+        </table>
+  </body>
+</html>
